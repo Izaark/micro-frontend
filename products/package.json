@@ -17,6 +17,6 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "faker": "^5.4.0"
+    "faker": "^5.0.0"
   }
 }
